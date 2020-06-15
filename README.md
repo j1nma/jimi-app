@@ -4,6 +4,8 @@
 Restaurant table management web application.
 To be used from a tactile screen no less than 7.9 inches horizontally.
 
+<img src="https://github.com/j1nma/jimi-app/blob/master/demo.png?raw=true"/>
+
 
 ## Accounts
 
